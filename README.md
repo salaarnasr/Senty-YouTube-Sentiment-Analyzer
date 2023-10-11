@@ -1,7 +1,5 @@
 # Senty-YouTube-Sentiment-Analyzer
-Youtube comment section sentiment analyzer
-Senty
-CS3307b project, part 3. At this stage of our project, we have the following features:
+- Collaborated with a team using C++, Dear ImGui, VADER, MVC architecture, YouTube API, and JSON to develop an application that  helps YouTube content creators understand audience engagement and sentiment by extracting and processing crucial video data. Created a  user-friendly Graphical User Interface (GUI) using Dear ImGui, earning praise for its visual appeal and functionality. Integrated VADER  sentiment analysis for accurate assessment of casual language in YouTube comments. Implemented user account creation, login, ad  password security features, Added advanced video analysis, video comparison, and automated video recommendations for improved content  engagement. Achieved seamless integration with the YouTube API for comments, video, and search data.
 
 Input handler
 Basic sentiment analyzer (VADER)
